@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Navigated to homepage...]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87505" started-at="2021-04-09T16:26:12 IST" finished-at="2021-04-09T16:27:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87505" started-at="2021-04-09T16:26:12 IST" finished-at="2021-04-09T16:27:40 IST">
+      <class name="com.lumens.testcases.HomepageNavigation">
+        <test-method status="PASS" signature="bTest()[pri:0, instance:com.lumens.testcases.HomepageNavigation@371a67ec]" name="bTest" is-config="true" duration-ms="33123" started-at="2021-04-09T16:26:12 IST" finished-at="2021-04-09T16:26:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.lumens.testcases.HomepageNavigation@371a67ec]" name="login" duration-ms="54229" started-at="2021-04-09T16:26:46 IST" finished-at="2021-04-09T16:27:40 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to homepage...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.lumens.testcases.HomepageNavigation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
